@@ -1,0 +1,1 @@
+{"PersonalProject1":{"name":"PersonalProject1","packages":{"com.company":{"packageName":"com.company","isAll":false,"classes":["Lcom.company.GameSetup","Lcom.company.Player","Lcom.company.Main.GUI","Lcom.company.Main"]}}}}
